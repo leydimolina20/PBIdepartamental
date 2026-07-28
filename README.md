@@ -33,3 +33,5 @@ source("scripts/04_analisis_final.R")
 Lima concentra el 78% del crédito bancario del país con solo el 46% del PBI nacional. La elasticidad crédito-PBI estimada es 1.54 (R² = 0.83), lo que muestra que el crédito no solo sigue el tamaño de la economía regional, sino que además está concentrado geográficamente en la capital, dejando una brecha de inclusión financiera en la sierra.
 
 **Repositorio:** https://github.com/tu-usuario/Proyecto_Final
+Captura de Linkedin: <img width="741" height="720" alt="image" src="https://github.com/user-attachments/assets/92dcaa45-d4ae-475f-8efb-ee30945f0b01" /> <img width="770" height="846" alt="image" src="https://github.com/user-attachments/assets/4904bd17-2c0d-49a7-a08c-e195f80d82c0" />
+
